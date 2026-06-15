@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-81280bef.zappy5.app
+https://example.com
 רפאל מציעה את פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים. התחל למכור אונליין בקלות, עם כלים מתקדמים ותמיכה מלאה. הצטרף עוד היום!
 
 ### חוויית מותג
-https://-81280bef.zappy5.app/brand-experience
+https://example.com/brand-experience
 הפוך את המותג שלך לחוויה דיגיטלית ייחודית עם רפאל. פלטפורמת b2b ecommerce platforms שמעצימה את הסיפור שלך ומושכת לקוחות. גלה איך לבלוט בשוק!
 
 ### קיימות
-https://-81280bef.zappy5.app/sustainability
+https://example.com/sustainability
 רפאל מובילה קיימות בעולם ה-ecommerce. למד כיצד sell ecommerce business באחריות סביבתית, תוך שימוש בפתרונות חכמים שמכבדים את כדור הארץ. התחל עכשיו!
 
 ### צור קשר
-https://-81280bef.zappy5.app/contact
+https://example.com/contact
 צור קשר עם רפאל, המומחים לפלטפורמת best ecommerce platform for small business. נשמח לעזור לך להקים חנות אונליין מנצחת. השאר פרטים עוד היום!
 
 ### Products
-https://-81280bef.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - רפאל
 
 ### Cart
-https://-81280bef.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-81280bef.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-81280bef.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-81280bef.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-81280bef.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-81280bef.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - רפאל
 
 ### Category
-https://-81280bef.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - רפאל
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-81280bef.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-81280bef.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-81280bef.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-81280bef.zappy5.app/sitemap.xml
-- Robots: https://-81280bef.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-81280bef.zappy5.app/llms-full.txt
-- Products (JSON): https://-81280bef.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-81280bef.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
