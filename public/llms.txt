@@ -1,0 +1,100 @@
+# רפאל — Generative Engine Optimization Map
+
+> אתר אונליין
+
+---
+
+## Pages
+
+### בית
+https://-81280bef.zappy5.app
+רפאל מציעה את פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים. התחל למכור אונליין בקלות, עם כלים מתקדמים ותמיכה מלאה. הצטרף עוד היום!
+
+### חוויית מותג
+https://-81280bef.zappy5.app/brand-experience
+הפוך את המותג שלך לחוויה דיגיטלית ייחודית עם רפאל. פלטפורמת b2b ecommerce platforms שמעצימה את הסיפור שלך ומושכת לקוחות. גלה איך לבלוט בשוק!
+
+### קיימות
+https://-81280bef.zappy5.app/sustainability
+רפאל מובילה קיימות בעולם ה-ecommerce. למד כיצד sell ecommerce business באחריות סביבתית, תוך שימוש בפתרונות חכמים שמכבדים את כדור הארץ. התחל עכשיו!
+
+### צור קשר
+https://-81280bef.zappy5.app/contact
+צור קשר עם רפאל, המומחים לפלטפורמת best ecommerce platform for small business. נשמח לעזור לך להקים חנות אונליין מנצחת. השאר פרטים עוד היום!
+
+### Products
+https://-81280bef.zappy5.app/products
+המוצרים שלנו - רפאל
+
+### Cart
+https://-81280bef.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-81280bef.zappy5.app/checkout
+תשלום
+
+### Login
+https://-81280bef.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-81280bef.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-81280bef.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-81280bef.zappy5.app/product/:slug
+פרטי המוצר - רפאל
+
+### Category
+https://-81280bef.zappy5.app/category/:slug
+מוצרים - רפאל
+
+## Legal & Policy
+
+### Privacy Policy
+https://-81280bef.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-81280bef.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-81280bef.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רפאל
+אתר אונליין
+
+## Target Audience
+- חובבי אופנה צעירים
+- צרכנים חובבי טכנולוגיה
+- שוחרי קיימות
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-81280bef.zappy5.app/sitemap.xml
+- Robots: https://-81280bef.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-81280bef.zappy5.app/llms-full.txt
+- Products (JSON): https://-81280bef.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-81280bef.zappy5.app/product-feed.xml
