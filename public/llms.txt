@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### שקר או אמת
+https://example.com/product/shkr-av-amt-aodzwl
+- Price: 5.00 ILS (sale, was 10.00 ILS)
+- Availability: In stock
+- Description: אם אתה משקר זה מחשמל
+- Image: https://example.com/assets/product-1781523584505-d0qm6c.webp
 
 ---
 

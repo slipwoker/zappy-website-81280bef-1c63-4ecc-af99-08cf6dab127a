@@ -354,9 +354,7 @@
     window.ZAPPY_WEBSITE_ID = "81280bef-1c63-4ecc-af99-08cf6dab127a";
     // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
     // Deployed sites are static and must call the public Zappy API (never localhost).
-    window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview'))
-      ? "https://api.zappy5.com"
-      : "https://api.zappy5.com";
+    window.ZAPPY_API_BASE = "https://api.zappy5.com";
   </script>
   
     <div class="mobile-search-panel" id="mobile-search-panel">

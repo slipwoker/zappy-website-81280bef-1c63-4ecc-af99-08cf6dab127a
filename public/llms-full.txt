@@ -1833,7 +1833,7 @@ Description: המוצרים שלנו - רפאל
 
 
 
-# המוצרים שלנו
+# מוצרים
 
 
 
@@ -1841,6 +1841,7 @@ Description: המוצרים שלנו - רפאל
 סינון
 
 
+1 מוצרים
 
 
 
@@ -1862,8 +1863,11 @@ Description: המוצרים שלנו - רפאל
 
 
 
-טוען מוצרים...
 
+### שקר או אמת
+
+
+₪10.00 ">₪5.00  ₪10.00
 
 
 
@@ -5229,6 +5233,15 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 נוצר באמצעות Zappy
+
+---
+
+## Product Catalog
+
+### שקר או אמת
+URL: https://example.com/product/shkr-av-amt-aodzwl
+Price: 5.00 ILS (sale, was 10.00 ILS)
+Availability: In stock
 
 ---
 

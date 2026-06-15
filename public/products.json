@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T11:31:40.131Z",
+  "generated_at": "2026-06-15T11:43:12.651Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "1c6f056b-9497-4e94-aabd-4c56a1e7a5fe",
+      "slug": "shkr-av-amt-aodzwl",
+      "name": "שקר או אמת",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אם אתה משקר זה מחשמל",
+      "sku": null,
+      "brand": null,
+      "price": 5,
+      "base_price": 10,
+      "sale_price": 5,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1781523584505-d0qm6c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shkr-av-amt-aodzwl",
+      "categories": [],
+      "updated_at": "2026-06-15T11:41:03.959Z"
+    }
+  ]
 }
